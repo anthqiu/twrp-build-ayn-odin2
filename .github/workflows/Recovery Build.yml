@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/anthqiu/twrp-device-tree-ayn-kalama'
+        default: 'https://github.com/BigfootACA/device_ayn_odin2'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
@@ -22,7 +22,7 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/ayn/kalama'
+        default: 'device/ayn/odin2'
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: false
@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'omni_kalama'
+        default: 'twrp_odin2'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
