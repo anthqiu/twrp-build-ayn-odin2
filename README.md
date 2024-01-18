@@ -29,11 +29,11 @@ All contributors
 | `MANIFEST_URL`       | Source address                                    | https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git |
 | `MANIFEST_BRANCH`    | Source branch                                     | twrp-12.1                                                    |
 | `DEVICE_TREE_URL`    | Device address                                    | https://github.com/BigfootACA/device_ayn_odin2.git           |
-| `DEVICE_TREE_BRANCH` | Device branch                                     | android-12.1                                                 |
+| `DEVICE_TREE_BRANCH` | Device branch                                     | master                                                 |
 | `DEVICE_PATH`        | Device location                                   | device/ayn/odin2                                            |
 | `COMMON_TREE_URL`    | Common tree address                               |  |
 | `COMMON_PATH`        | Common tree location                              |                                     |
-| `DEVICE_NAME`        | Model name                                        | kalama                                                        |
+| `DEVICE_NAME`        | Model name                                        | odin2                                                        |
 | `MAKEFILE_NAME`      | Makefile name                                     | twrp_odin2                                                   |
 | `BUILD_TARGET`       | Build Target Partition (boot/recovery/vendorboot) | recovery                                                     |
 
