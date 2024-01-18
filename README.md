@@ -1,5 +1,9 @@
 ## Automated TWRP compilation based on Github Action
 
+1. Autobuild script: [azwhikaru/Action-TWRP-Builder](https://github.com/azwhikaru/Action-TWRP-Builder)
+
+2. Device tree: [BigfootACA/device_ayn_odin2](https://github.com/BigfootACA/device_ayn_odin2)
+
 ## Advertising
 
 1. OrangeFox is [here](https://github.com/azwhikaru/Action-OFRP-Builder)
